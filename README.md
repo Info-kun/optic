@@ -8,6 +8,6 @@ If any changes are made,  you will have to re-install the OS until i add an upda
 
 # Notes
 1. If you need help, you can execute "os help".
-2. If you need to quickly get a package or a program, you can execute "sudo apt-get <package/program>". (You must have sudo or chippy installed)
+2. If you need to quickly get a package or a program, you can execute "sudo apt-get <package/program>". (You must have sudo or chippy installed or zypper installed)
 3. Any bugs, issues or errors must be reported on the "issues" tab on https://github.com/Info-kun/optic/issues.
-
+4. Extract github files using "extract username/repository repopath" (You must have extractor installed)
